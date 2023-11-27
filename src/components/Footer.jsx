@@ -36,7 +36,7 @@ const Footer = () => {
                   <Heading
                   textTransform={'uppercase'}
                   textAlign={'center'}
-                  >VIDEO HUB</Heading> 
+                  >><a href="/">VIDEOHUB</a></Heading> 
                   <Text>All rights received</Text>
               </VStack>
 
